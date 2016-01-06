@@ -9,6 +9,7 @@ It's just an android app that connect to a Hc-06 bluetooth chip to open and clos
 ## Improvement
 
 - I use a 9V phone alimentation connected with a LM7505 to make my alimention, but the LM7505 really does not like it when the relay is on. Maybe I can find a direct 5V alimention or a AC/DC mount power (http://www.digikey.ca/product-detail/en/VSK-S1-5U/102-2595-ND/3465373) or a cheap Iphone recharger. 
+- My friends (who really know nothing about electronic and programmation) ask me if I can steal all christmas tree light with this app, like the good old time when TV-B-Gone was use to close all tv. I don't know how, but I definitely work on that for the next christmas.
 
 ## Thanks
 
