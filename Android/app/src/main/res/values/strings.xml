@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Grinch</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="main_christmas_over">Telecommande\nAnti-Noel</string>
+    <string name="main_selected_button_text">Voler Noel</string>
+    <string name="main_unknow_state_button">Cherche un\nsapin\na voler</string>
+    <string name="main_un_selected_button_text">Rendre Noel</string>
+    <string name="main_bluetooth_device">Voler une autre maison</string>
+
+</resources>

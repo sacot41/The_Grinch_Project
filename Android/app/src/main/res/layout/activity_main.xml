@@ -1,0 +1,39 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/grinch_green_light">
+
+    <TextView
+        android:id="@+id/textview_main_bluetooth_device_button"
+        android:text="@string/main_bluetooth_device"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="20dp"
+        android:clickable="true"
+        android:gravity="center"
+        android:layout_alignParentBottom="true"
+        android:textSize="30sp"
+        android:textColor="@color/white"/>
+
+    <com.sacot41.grinch.StealButton
+        android:id="@+id/button_main_activity_activate_christmas"
+        style="@style/StealButton"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="30dp"
+        android:layout_above="@id/textview_main_bluetooth_device_button"/>
+
+    <TextView
+        android:id="@+id/textview_main_christmas_over"
+        android:text="@string/main_christmas_over"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:layout_alignParentTop="true"
+        android:layout_above="@id/button_main_activity_activate_christmas"
+        android:textSize="80sp"
+        android:textColor="@color/white"/>
+
+</RelativeLayout>

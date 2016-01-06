@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#999999</color>
+
+    <color name="grinch_green_light">#34A65F</color>
+    <color name="grinch_green_dark">#0F8A5F</color>
+
+    <color name="grinch_blue_dark">#235E6F</color>
+    <color name="grinch_blue_light">#19CAFD</color>
+    <color name="grinch_blue">#0089B1</color>
+    
+    <color name="grinch_red_dark">#CC231E</color>
+    <color name="grinch_red_light">#F5624D</color>
+    
+</resources>
