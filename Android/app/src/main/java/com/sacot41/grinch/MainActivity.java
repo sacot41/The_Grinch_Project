@@ -59,7 +59,7 @@ public class MainActivity extends GrinchBaseActiviy {
     public void onStart() {
         super.onStart();
 
-        stealChristmasButton.setState(StealButton.STATE_UNKNOWN);
+        stealChristmasButton.setState(StealButton.STATE_OFF);
         bt = new Bluetooth(mHandler);
         connectService();
     }
