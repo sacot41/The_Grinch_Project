@@ -6,7 +6,7 @@ It's just an android app that connect to a Hc-06 bluetooth chip to open and clos
 
 ## Description
 
-![](/screenshot_1.png)
+![](/screenshot_1.png) ![](/screenshot_off.png) ![](/screenshot_on.png)
 
 ## Improvement
 
